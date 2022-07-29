@@ -1,4 +1,4 @@
-module github.com/akhil/scraper-for-google
+module github.com/dipraj/scraper-for-google
 
 go 1.16
 
